@@ -7,6 +7,15 @@
 
 </details>
 
+<details>
+<summary>Vanilla Javascript</summary>
+
+* [Fantasy Football](https://github.com/Jirrer/FantasyFootball/tree/main/frontend)
+* [Who Sings This](https://github.com/Jirrer/Who-Sings-This)
+
+
+</details>
+
 ## Servers
 <details>
 <summary>Flask</summary>
@@ -30,14 +39,5 @@
 <summary>Desktop Applications</summary>
 
 * [Financeable](https://github.com/Jirrer/Finiancable)
-
-</details>
-
-## Vanilla Javascript
-<details>
-<summary>Vanilla Javascript</summary>
-
-* [Fantasy Football](https://github.com/Jirrer/FantasyFootball/tree/main/frontend)
-* [Who Sings This](https://github.com/Jirrer/Who-Sings-This)
 
 </details>
