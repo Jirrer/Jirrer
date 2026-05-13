@@ -8,7 +8,7 @@
 ## Servers
 ### Flask
 * [Michigan Analytics](https://github.com/Jirrer/Health-Analytics/tree/main/src)
-* [Fantasy Football]((https://github.com/Jirrer/FantasyFootball/tree/main/backend)
+* [Fantasy Football](https://github.com/Jirrer/FantasyFootball/tree/main/backend)
 
 ## Command Line Applications
 * [Knowledge Base](https://github.com/Jirrer/Knowledge_Base)
