@@ -14,7 +14,7 @@
 * [Focus](https://github.com/Jirrer/Focus)
 
 ## Desktop Applications
-[Financeable](https://github.com/Jirrer/Finiancable)
+* [Financeable](https://github.com/Jirrer/Finiancable)
 
 ### Vanilla Javascript
 * [Fantasy Football](https://github.com/Jirrer/FantasyFootball/tree/main/frontend)
